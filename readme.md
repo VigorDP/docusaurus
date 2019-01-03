@@ -1,5 +1,5 @@
 ```
-D:\Users\Desktop\docusaurus
+docusaurus
 ├─.dockerignore
 ├─.gitignore
 ├─docker-compose.yml
