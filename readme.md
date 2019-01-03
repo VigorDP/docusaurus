@@ -1,3 +1,7 @@
+## docusaurus
+
+> 一个十分方便的网站生成器，最佳使用场景是提供 API 文档，产品介绍页等
+
 ```
 docusaurus
 ├─.dockerignore
